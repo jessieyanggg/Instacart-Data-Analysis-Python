@@ -12,15 +12,23 @@ Analyze the data to discover differences in user's ordering habits based various
 
 Create customer profiles based on combinations of variables and analyze how their ordering behaviors may differ (for instance: pet owners, vegetarian/vegan, etc.).
 
-Key Questions:
+## Key Questions:
 -The sales team needs to know what the busiest days of the week and hours of the day are in order to schedule ads when there are fewer orders. 
+
 -They want to know if there are particular times of day when people spend the most money 
+
 -Which departments have the highest frequency of product orders?
+
 -What is the distribution of users according to brand loyalty?
+
 -Are there differences in ordering habits based on a customer's loyalty status?
+
 -Are there differences in ordering habits based on a customer's region?
+
 -Is there a connection between age and family status(number of dependents) in terms of ordering habits?
+
 -What different classifications does the demographic information suggest?
+
 -What differences can you find in ordering habits of different customer profiles?
 
 # Data
